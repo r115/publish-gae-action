@@ -11,9 +11,9 @@
     "type": "git",
     "url": "git+https://github.com/zxyle/publish-gae-action.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": ["actions", "GAE"],
+  "author": "Zheng",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/zxyle/publish-gae-action/issues"
   },
